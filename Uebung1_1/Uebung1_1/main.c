@@ -13,6 +13,7 @@ int main(void)
     /* Replace with your application code */
     while (1) 
     {
+		// Hier muss was tolles passieren
     }
 }
 
